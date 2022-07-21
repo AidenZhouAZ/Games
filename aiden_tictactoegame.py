@@ -37,3 +37,5 @@ if __name__ == "__main__":
     t.mark(2,2,"X")
     t.print_state()
     
+
+    sample code: https://colab.research.google.com/drive/18JFkI-NiSDIqPCCmRiW0rw8RWp_IVkFD
